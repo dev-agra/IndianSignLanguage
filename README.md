@@ -4,7 +4,21 @@ This project uses machine learning to detect Indian Sign Language gestures in re
 📷 Example Images 📷
 Here are some example images of the project in action:
 
+Example of using the model on a face detector
 ![alt text](https://github.com/dev-agra/IndianSignLanguage/blob/main/Output/Facial/Screenshot%20(466).png?raw=true)
+
+Examples of using the model on sign language Classification
+1. ThumbsUp
+![alt text](https://github.com/dev-agra/IndianSignLanguage/blob/main/Output/Screenshot%2005-13-2022%2001.57.30.png?raw=true)
+
+2. ThumbsDown
+![alt text](https://github.com/dev-agra/IndianSignLanguage/blob/main/Output/Screenshot%2005-13-2022%2001.59.31.png?raw=true)
+
+3. Four 
+![alt text](https://github.com/dev-agra/IndianSignLanguage/blob/main/Output/Screenshot%2005-13-2022%2002.00.41.png?raw=true)
+
+4. Man
+![alt text](https://github.com/dev-agra/IndianSignLanguage/blob/main/Output/Screenshot%2005-13-2022%2002.00.30.png?raw=true)
 
 🚀 Getting Started 🚀
 To get started with this project, you will need to install the necessary dependencies. You can do this by running the following command:
