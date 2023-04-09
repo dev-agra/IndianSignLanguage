@@ -1,0 +1,4 @@
+#!C:\Programming\Hackathon-2022\hackathon\Scripts\python.exe
+# EASY-INSTALL-SCRIPT: 'avro-python3==1.10.2','avro'
+__requires__ = 'avro-python3==1.10.2'
+__import__('pkg_resources').run_script('avro-python3==1.10.2', 'avro')

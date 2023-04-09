@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: tf-models-official
+Version: 2.8.0
+Summary: TensorFlow Official Models
+Home-page: https://github.com/tensorflow/models
+Author: Google Inc.
+Author-email: no-reply@google.com
+License: Apache 2.0
+Platform: UNKNOWN
+Requires-Python: >=3.7
+License-File: LICENSE
+License-File: AUTHORS
+Requires-Dist: Cython
+Requires-Dist: Pillow
+Requires-Dist: gin-config
+Requires-Dist: google-api-python-client (>=1.6.7)
+Requires-Dist: kaggle (>=1.3.9)
+Requires-Dist: matplotlib
+Requires-Dist: numpy (>=1.15.4)
+Requires-Dist: oauth2client
+Requires-Dist: opencv-python-headless
+Requires-Dist: pandas (>=0.22.0)
+Requires-Dist: psutil (>=5.4.3)
+Requires-Dist: py-cpuinfo (>=3.3.0)
+Requires-Dist: pycocotools
+Requires-Dist: pyyaml (<6.0,>=5.1)
+Requires-Dist: sacrebleu
+Requires-Dist: scipy (>=0.19.1)
+Requires-Dist: sentencepiece
+Requires-Dist: seqeval
+Requires-Dist: six
+Requires-Dist: tensorflow-addons
+Requires-Dist: tensorflow-datasets
+Requires-Dist: tensorflow-hub (>=0.6.0)
+Requires-Dist: tensorflow-model-optimization (>=0.4.1)
+Requires-Dist: tensorflow-text (~=2.8.0)
+Requires-Dist: tensorflow (~=2.8.0)
+Requires-Dist: tf-slim (>=1.1.0)
+Requires-Dist: dataclasses ; python_version < "3.7"
+
+The TensorFlow official models are a collection of
+models that use TensorFlow's high-level APIs.
+They are intended to be well-maintained, tested, and kept up to date with the
+latest TensorFlow API. They should also be reasonably optimized for fast
+performance while still being easy to read.
+
